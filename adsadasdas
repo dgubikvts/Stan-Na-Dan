@@ -1,0 +1,11 @@
+[33mcommit 89972b215a3d0dc8555b80272caf25ef6a6c43cc[m[33m ([m[1;36mHEAD -> [m[1;32mtest[m[33m)[m
+Author: David <dgubikvts@gmail.com>
+Date:   Fri Aug 26 18:00:40 2022 +0200
+
+    changed months and days to english
+
+[33mcommit c0330c18b74d414f0777b061428ef3547d7273b4[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: dgubikvts <92539717+dgubikvts@users.noreply.github.com>
+Date:   Fri Aug 26 17:45:42 2022 +0200
+
+    init
