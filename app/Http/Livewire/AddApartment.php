@@ -98,6 +98,7 @@ class AddApartment extends Component
         return redirect()->route('show-apartment', $apartment->id);
     }
 
+    
     public function render()
     {
         return view('livewire.add-apartment');
