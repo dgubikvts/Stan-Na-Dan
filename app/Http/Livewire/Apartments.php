@@ -20,7 +20,6 @@ class Apartments extends Component
         $sorting = explode('|', $this->sort);
         $this->sortField = $sorting[0];
         $this->sortDirection = $sorting[1];
-
     }
 
     public function deleteApartment($apartment_id){
